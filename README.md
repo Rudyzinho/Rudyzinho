@@ -13,6 +13,10 @@
 <img src="https://img.shields.io/badge/Game%20Development-2ea44f?style=for-the-badge">
 <img src="https://img.shields.io/badge/Gameplay%20Systems-5865F2?style=for-the-badge">
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=erikoliveira091&color=58A6FF&style=for-the-badge">
+
 </div>
 
 ---
@@ -32,7 +36,21 @@ Tenho interesse em aprender e construir diferentes:
 - Experiências imersivas
 
 Busco desenvolver projetos que misturem:
+
 > gameplay, atmosfera, exploração, narrativa e sistemas reutilizáveis.
+
+<br>
+
+> ⚠️ Meu principal ambiente de desenvolvimento e versionamento é o GitLab.  
+> Muitos dos meus projetos, protótipos e experimentações ativas são mantidos lá.
+
+<div align="left">
+
+<a href="https://gitlab.com/erikoliveira091">
+<img src="https://img.shields.io/badge/GitLab-erikoliveira091-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -47,10 +65,6 @@ Busco desenvolver projetos que misturem:
 <br>
 
 <div align="center">
-
-<!-- ===================================== -->
-<!-- SUBSTITUA PELA IMAGEM/GIF DO SEU JOGO -->
-<!-- ===================================== -->
 
 <img src="https://placehold.co/1000x500/0d1117/1f2937?text=Summer's+Last+Dawn" />
 
@@ -241,7 +255,7 @@ Protótipo focado em perspectiva, movimentação e experimentação visual/gamep
 
 ### Desenvolvimento de Jogos
 
-<img src="https://skillicons.dev/icons?i=unity,cs,git,github,visualstudio" />
+<img src="https://skillicons.dev/icons?i=unity,cs,git,github,gitlab,visualstudio" />
 
 <br><br>
 
@@ -257,15 +271,31 @@ Protótipo focado em perspectiva, movimentação e experimentação visual/gamep
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikoliveira091&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=rudyzinho&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikoliveira091&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<br><br>
+
+<img height="180em" src="https://streak-stats.demolab.com/?user=erikoliveira091&theme=tokyonight"/>
+
 </div>
 
 ---
 
-## GitLab
+# 🌐 Plataformas
 
-[![GitLab](https://img.shields.io/badge/GitLab-erikoliveira091-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/erikoliveira091)
+<div align="center">
+
+<a href="https://gitlab.com/erikoliveira091">
+<img src="https://img.shields.io/badge/GitLab-Projetos%20Principais-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
+
+<a href="https://github.com/erikoliveira091">
+<img src="https://img.shields.io/badge/GitHub-Portfólio%20e%20Projetos-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -284,3 +314,7 @@ Persistência de Mundo
 Scene Streaming
 Gameplay Frameworks
 Game Feel & Interaction
+UI/UX para Jogos
+Game Architecture
+Interactive Narrative
+Atmospheric Design
