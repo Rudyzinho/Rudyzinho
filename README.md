@@ -4,7 +4,7 @@
 
 ### Unity Developer • Gameplay Programmer • Game Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Gameplay+Programming;Unity+Developer;Point-and-Click+Systems;Narrative+Game+Development;Game+Systems+Architecture" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Gameplay+Programador;Unity+Developer;Point-and-Click+Systems;Narrative+Game+Development;Game+Systems+Architecture" />
 
 <br>
 
