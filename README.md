@@ -52,7 +52,7 @@ Tenho interesse em aprender, testar e desenvolver diferentes tipos de mecânicas
 
 ### Point-and-Click Adventure Narrativo
 
-<img src="https://github.com/Rudyzinho/Rudyzinho/blob/main/summer's%20last%20dawn.png?text=Summer's+Last+Dawn" />
+<img src="https://github.com/Rudyzinho/Rudyzinho/blob/main/summer_last_dawn.png?text=Summer's+Last+Dawn" />
 
 </div>
 
