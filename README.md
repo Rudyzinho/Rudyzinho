@@ -263,26 +263,11 @@ Protótipo focado em perspectiva, movimentação e experimentação visual/gamep
 
 ---
 
-# Projetos no GitLab
+## GitLab
 
-## Dead by Demake
-Projeto experimental focado em atmosfera e gameplay inspirada em survival horror.
-
-🔗 https://gitlab.com/erikoliveira091/dead-by-demake
+[![GitLab](https://img.shields.io/badge/GitLab-erikoliveira091-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/erikoliveira091)
 
 ---
-
-## Abyss of Roots
-Protótipo com exploração, ambientação sombria e experimentações visuais.
-
-🔗 https://gitlab.com/erikoliveira091/abyss-of-roots
-
----
-
-## 2.5D Project
-Experimentos com movimentação, câmera e perspectiva híbrida em Unity.
-
-🔗 https://gitlab.com/erikoliveira091/2.5d
 
 # 🎯 Áreas de Interesse
 
