@@ -327,7 +327,7 @@ Protótipo focado em perspectiva, movimentação, câmera e experimentação vis
 
 ---
 
-# 🧩 Foco Técnico
+# 💻 Foco Técnico
 
 <table>
 <tr>
@@ -363,9 +363,9 @@ Ferramentas para Unity, fluxos de produção, debug visual e sistemas editáveis
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=erikoliveira091&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rudyzinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikoliveira091&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyzinho&layout=compact&langs_count=8&theme=tokyonight"/>
 
 <br><br>
 
@@ -393,7 +393,7 @@ Principal ambiente de **desenvolvimento ativo**, versionamento e organização d
 
 <br><br>
 
-<a href="https://gitlab.com/erikoliveira091">
+<a href="https://gitlab.com/rudyzinho">
 <img src="https://img.shields.io/badge/Acessar%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </a>
 
