@@ -257,10 +257,10 @@ Protótipo focado em perspectiva, movimentação e experimentação visual/gamep
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikoliveira091&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudyzinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=erikoliveira091&theme=tokyonight"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=rudyzinho&theme=tokyonight"/>
 </div>
 
 ---
