@@ -257,13 +257,32 @@ Protótipo focado em perspectiva, movimentação e experimentação visual/gamep
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudyzinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
 
 <img height="180em" src="https://streak-stats.demolab.com/?user=rudyzinho&theme=tokyonight"/>
 </div>
 
 ---
+
+# Projetos no GitLab
+
+## Dead by Demake
+Projeto experimental focado em atmosfera e gameplay inspirada em survival horror.
+
+🔗 https://gitlab.com/erikoliveira091/dead-by-demake
+
+---
+
+## Abyss of Roots
+Protótipo com exploração, ambientação sombria e experimentações visuais.
+
+🔗 https://gitlab.com/erikoliveira091/abyss-of-roots
+
+---
+
+## 2.5D Project
+Experimentos com movimentação, câmera e perspectiva híbrida em Unity.
+
+🔗 https://gitlab.com/erikoliveira091/2.5d
 
 # 🎯 Áreas de Interesse
 
