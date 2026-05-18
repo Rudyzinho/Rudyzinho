@@ -393,7 +393,7 @@ Principal ambiente de **desenvolvimento ativo**, versionamento e organização d
 
 <br><br>
 
-<a href="https://gitlab.com/rudyzinho">
+<a href="https://gitlab.com/erikoliveira091">
 <img src="https://img.shields.io/badge/Acessar%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </a>
 
@@ -411,7 +411,7 @@ Espaço utilizado para **portfólio**, apresentação de projetos e repositório
 
 <br><br>
 
-<a href="https://github.com/erikoliveira091">
+<a href="https://github.com/rudyzinho">
 <img src="https://img.shields.io/badge/Acessar%20GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
