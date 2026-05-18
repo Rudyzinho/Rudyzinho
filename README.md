@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Gameplay%20Systems-5865F2?style=for-the-badge">
 <img src="https://img.shields.io/badge/Unity%20Tools-58A6FF?style=for-the-badge&logo=unity&logoColor=white">
 
-
+---
 
 # 👋 Sobre Mim
 
@@ -350,22 +350,6 @@ Ferramentas para Unity, fluxos de produção, debug visual e sistemas editáveis
 </td>
 </tr>
 </table>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rudyzinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyzinho&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<br><br>
-
-<img height="170em" src="https://streak-stats.demolab.com/?user=erikoliveira091&theme=tokyonight"/>
-
-</div>
 
 ---
 
