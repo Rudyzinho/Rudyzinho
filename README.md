@@ -161,11 +161,11 @@ Projeto principal atual focado em investigação, exploração, escolhas narrati
 
 **Survival Horror Demake**
 
-Projeto inspirado em jogos de terror clássicos, com foco em atmosfera, loop de gameplay e sistemas de progressão.
+Projeto desenvolvido para o trabalho final da disciplina de matemática aplicada a multimidia, com a proposta de ser um demake no estilo do Atari 2600 de um jogo moderno, no caso Dead by Daylight.
 
 <br><br>
 
-`Unity` `C#` `Gameplay Loop`
+`Unity` `C#` `Demake`
 
 <br>
 
@@ -174,13 +174,11 @@ Projeto inspirado em jogos de terror clássicos, com foco em atmosfera, loop de 
 
 <br>
 
-- Estrutura de gameplay  
-- Sistema de inimigos  
-- Loop de jogo  
-- Progressão  
-- Interface  
-- Organização modular  
-- Experimentos com atmosfera horror  
+- A* / Pathfinder
+- IA de inimigo
+- Maquina de Estados Finitos  
+- Tilemap  
+- Skill Check  
 
 </details>
 
