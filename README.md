@@ -14,11 +14,7 @@
 <img src="https://img.shields.io/badge/Gameplay%20Systems-5865F2?style=for-the-badge">
 <img src="https://img.shields.io/badge/Unity%20Tools-58A6FF?style=for-the-badge&logo=unity&logoColor=white">
 
-<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=erikoliveira091&color=58A6FF&style=for-the-badge">
-
-</div>
 
 ---
 
