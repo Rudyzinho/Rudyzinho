@@ -16,8 +16,6 @@
 
 
 
----
-
 # 👋 Sobre Mim
 
 Sou desenvolvedor focado em **programação de jogos**, com interesse especial em **Unity**, **C#**, **sistemas de gameplay**, **arquitetura de jogos** e criação de ferramentas reutilizáveis para desenvolvimento.
