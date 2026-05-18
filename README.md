@@ -52,7 +52,7 @@ Tenho interesse em aprender, testar e desenvolver diferentes tipos de mecânicas
 
 ### Point-and-Click Adventure Narrativo
 
-<img src="https://github.com/Rudyzinho/Rudyzinho/blob/main/summer_last_dawn.png?text=Summer's+Last+Dawn" />
+<img src="./summer_last_dawn.png?text=Summer's+Last+Dawn" />
 
 </div>
 
@@ -112,7 +112,7 @@ O projeto é desenvolvido em **Unity** com **C#**, utilizando uma estrutura volt
 
 ## 🌙 Summer's Last Dawn
 
-<img src="https://placehold.co/500x260/0d1117/58A6FF?text=Summer's+Last+Dawn" />
+<img src="./summer_last_dawn.png?text=Summer's+Last+Dawn" />
 
 <br><br>
 
