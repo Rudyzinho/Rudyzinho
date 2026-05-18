@@ -2,16 +2,17 @@
 
 # 🎮 Erik Oliveira
 
-### Programador de Jogos • Unity Developer • Gameplay & Systems Programmer
+### Game Programmer • Unity Developer • Gameplay & Systems Programmer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Desenvolvimento+de+Jogos+na+Unity;Gameplay+Programming;Sistemas+e+Arquitetura+para+Jogos;Narrativa+Interativa+e+Gameplay;Construindo+Mundos,+Mec%C3%A2nicas+e+Experi%C3%AAncias" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Programação+de+Jogos+com+Unity+e+C%23;Gameplay+Programming;Game+Systems+Development;Arquitetura+e+Sistemas+para+Jogos;Ferramentas+e+Mecânicas+Interativas;Construindo+Mundos,+Sistemas+e+Experiências" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity">
-<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp">
-<img src="https://img.shields.io/badge/Game%20Development-2ea44f?style=for-the-badge">
+<img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/Game%20Programming-2EA44F?style=for-the-badge">
 <img src="https://img.shields.io/badge/Gameplay%20Systems-5865F2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Unity%20Tools-58A6FF?style=for-the-badge&logo=unity&logoColor=white">
 
 <br><br>
 
@@ -23,31 +24,26 @@
 
 # 👋 Sobre Mim
 
-Desenvolvedor focado em **programação de jogos**, criação de **sistemas de gameplay** e desenvolvimento de experiências interativas utilizando **Unity** e **C#**.
+Sou desenvolvedor focado em **programação de jogos**, com interesse especial em **Unity**, **C#**, **sistemas de gameplay**, **arquitetura de jogos** e criação de ferramentas reutilizáveis para desenvolvimento.
 
-Tenho interesse em aprender e construir diferentes:
+Meu foco está na construção de sistemas que sustentam experiências interativas, como movimentação, interação, inventário, puzzles, save/load, transições de cena, persistência de mundo e estruturas modulares para jogos.
 
-- Mecânicas de gameplay
-- Sistemas para jogos
-- Ferramentas para Unity
-- Narrativas interativas
-- Mundos exploráveis
-- Arquiteturas modulares
-- Experiências imersivas
-
-Busco desenvolver projetos que misturem:
-
-> gameplay, atmosfera, exploração, narrativa e sistemas reutilizáveis.
+Tenho interesse em aprender, testar e desenvolver diferentes tipos de mecânicas, mundos e experiências digitais, sempre buscando unir programação, organização técnica e sensação de jogo.
 
 <br>
 
-> ⚠️ Meu principal ambiente de desenvolvimento e versionamento é o GitLab.  
-> Muitos dos meus projetos, protótipos e experimentações ativas são mantidos lá.
+> Meu principal ambiente de desenvolvimento e versionamento é o **GitLab**, onde mantenho grande parte dos meus projetos, protótipos e experimentações em Unity.
 
-<div align="left">
+<br>
+
+<div align="center">
 
 <a href="https://gitlab.com/erikoliveira091">
-<img src="https://img.shields.io/badge/GitLab-erikoliveira091-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-Projetos%20Principais-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
+
+<a href="https://github.com/erikoliveira091">
+<img src="https://img.shields.io/badge/GitHub-Portfólio%20e%20Repositórios-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -56,64 +52,57 @@ Busco desenvolver projetos que misturem:
 
 # 🌙 Projeto Principal Atual
 
-# Summer's Last Dawn
+<div align="center">
+
+## Summer's Last Dawn
 
 ### Point-and-Click Adventure Narrativo
 
-> Projeto autoral focado em investigação, exploração, escolhas narrativas e interação com o ambiente.
-
-<br>
-
-<div align="center">
-
-<img src="https://placehold.co/1000x500/0d1117/1f2937?text=Summer's+Last+Dawn" />
+<img src="https://placehold.co/1000x500/0d1117/58A6FF?text=Summer's+Last+Dawn" />
 
 </div>
 
 <br>
 
-## 🎯 Objetivo do Projeto
+**Summer's Last Dawn** é meu projeto principal atual: um jogo narrativo do gênero **point-and-click adventure**, focado em investigação, exploração, escolhas, interação com o ambiente e sistemas persistentes.
 
-Criar uma experiência narrativa atmosférica inspirada em jogos focados em:
-
-- exploração
-- investigação
-- escolhas
-- puzzles
-- gerenciamento de recursos
-- narrativa emergente
+O projeto é desenvolvido em **Unity** com **C#**, utilizando uma estrutura voltada para modularidade, organização de sistemas e expansão progressiva das mecânicas.
 
 ---
 
-## ⚙️ Sistemas Desenvolvidos
+## Sistemas em Desenvolvimento
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎮 Gameplay
+### 🎮 Gameplay Programming
 
 - Movimentação point-and-click
-- Sistema de interação contextual
+- Interação contextual
 - Cursor dinâmico
-- Sistema de diálogos
+- Sistema de inventário
+- Uso de itens em objetos
+- Combinação de itens
 - Estrutura para puzzles
-- Uso e combinação de itens
-- Exploração narrativa
+- Exploração por cenário
+- Interações com portas e objetos
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Arquitetura
+### 🧠 Game Systems
 
 - Save/load persistente
-- Additive scene loading
-- Sistema de inventário
 - Persistência entre cenas
+- Additive scene loading
 - Sistema modular de portas
+- Estados compartilhados entre objetos
+- Controle de cenas e spawns
+- Organização por componentes
 - Simulação de perspectiva 2D
-- Estrutura reutilizável para gameplay
+- Estrutura reutilizável para novos sistemas
 
 </td>
 </tr>
@@ -125,123 +114,169 @@ Criar uma experiência narrativa atmosférica inspirada em jogos focados em:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
-# 🌙 Summer's Last Dawn
+## 🌙 Summer's Last Dawn
 
-### Point-and-Click Adventure Narrativo
+<img src="https://placehold.co/500x260/0d1117/58A6FF?text=Summer's+Last+Dawn" />
 
-Projeto principal atual focado em:
-- exploração
-- investigação
-- narrativa
-- puzzles
-- sistemas interativos
+<br><br>
 
-### Tecnologias
-`Unity` `C#` `URP 2D`
+**Point-and-Click Adventure Narrativo**
 
-### Sistemas
-- Inventário
-- Save/load
-- Interações contextuais
-- Puzzles
-- Scene transitions
-- Narrativa interativa
+Projeto principal atual focado em investigação, exploração, escolhas narrativas e sistemas interativos.
+
+<br><br>
+
+`Unity` `C#` `URP 2D` `Gameplay Systems`
 
 <br>
 
-<img src="https://placehold.co/500x250/0d1117/30363d?text=Summer's+Last+Dawn" />
+<details>
+<summary>Ver sistemas desenvolvidos</summary>
 
 <br>
 
-[🔗 Repositório](LINK_AQUI)
+- Movimentação point-and-click  
+- Inventário  
+- Save/load  
+- Interações contextuais  
+- Sistema modular de portas  
+- Transições entre cenas  
+- Persistência de objetos  
+- Estrutura para puzzles  
+- Narrativa interativa  
+
+</details>
+
+<br>
+
+<a href="LINK_AQUI">
+<img src="https://img.shields.io/badge/Repositório-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
-# 🩸 Dead by Demake
+## 🩸 Dead by Demake
 
-### Survival Horror Demake
+<img src="https://placehold.co/500x260/0d1117/FC6D26?text=Dead+by+Demake" />
 
-Projeto inspirado em jogos de terror clássicos com foco em atmosfera e gameplay arcade.
+<br><br>
 
-### Tecnologias
-`Unity` `C#`
+**Survival Horror Demake**
 
-### Destaques
-- Gameplay loop
-- Sistema de inimigos
-- Progressão
-- Interface
-- Estrutura gameplay
+Projeto inspirado em jogos de terror clássicos, com foco em atmosfera, loop de gameplay e sistemas de progressão.
+
+<br><br>
+
+`Unity` `C#` `Gameplay Loop`
 
 <br>
 
-<img src="https://placehold.co/500x250/0d1117/30363d?text=Dead+by+Demake" />
+<details>
+<summary>Ver destaques técnicos</summary>
 
 <br>
 
-[🔗 Repositório](https://gitlab.com/erikoliveira091/dead-by-demake)
+- Estrutura de gameplay  
+- Sistema de inimigos  
+- Loop de jogo  
+- Progressão  
+- Interface  
+- Organização modular  
+- Experimentos com atmosfera horror  
+
+</details>
+
+<br>
+
+<a href="https://gitlab.com/erikoliveira091/dead-by-demake">
+<img src="https://img.shields.io/badge/Repositório%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
-# 🌑 Abyss of Roots
+## 🌑 Abyss of Roots
 
-### Experimento Narrativo / Atmosférico
+<img src="https://placehold.co/500x260/0d1117/8B5CF6?text=Abyss+of+Roots" />
 
-Projeto experimental focado em ambientação, exploração e narrativa interativa.
+<br><br>
 
-### Tecnologias
-`Unity` `C#`
+**Experimento Narrativo / Atmosférico**
 
-### Destaques
-- Estrutura narrativa
-- Exploração
-- Atmosfera
-- Sistemas de gameplay
-- Organização modular
+Projeto experimental com foco em exploração, ambientação e estrutura narrativa interativa.
+
+<br><br>
+
+`Unity` `C#` `Atmospheric Design`
 
 <br>
 
-<img src="https://placehold.co/500x250/0d1117/30363d?text=Abyss+of+Roots" />
+<details>
+<summary>Ver destaques técnicos</summary>
 
 <br>
 
-[🔗 Repositório](https://gitlab.com/erikoliveira091/abyss-of-roots)
+- Exploração  
+- Estrutura narrativa  
+- Sistemas de interação  
+- Organização modular  
+- Atmosfera visual  
+- Experimentos com gameplay narrativo  
+
+</details>
+
+<br>
+
+<a href="https://gitlab.com/erikoliveira091/abyss-of-roots">
+<img src="https://img.shields.io/badge/Repositório%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
-# 🎥 Projeto 2.5D
+## 🎥 Projeto 2.5D
 
-### Estudo Técnico / Gameplay Prototype
+<img src="https://placehold.co/500x260/0d1117/2EA44F?text=Projeto+2.5D" />
 
-Protótipo focado em perspectiva, movimentação e experimentação visual/gameplay.
+<br><br>
 
-### Tecnologias
-`Unity` `C#`
+**Estudo Técnico / Gameplay Prototype**
 
-### Destaques
-- Perspectiva 2.5D
-- Movimentação
-- Sistemas visuais
-- Gameplay experimental
-- Estrutura de cena
+Protótipo focado em perspectiva, movimentação, câmera e experimentação visual em Unity.
+
+<br><br>
+
+`Unity` `C#` `Prototype`
 
 <br>
 
-<img src="https://placehold.co/500x250/0d1117/30363d?text=2.5D+Project" />
+<details>
+<summary>Ver destaques técnicos</summary>
 
 <br>
 
-[🔗 Repositório](https://gitlab.com/erikoliveira091/2.5d)
+- Perspectiva 2.5D  
+- Movimentação  
+- Experimentação de câmera  
+- Sistemas visuais  
+- Organização de cena  
+- Gameplay experimental  
+
+</details>
+
+<br>
+
+<a href="https://gitlab.com/erikoliveira091/2.5d">
+<img src="https://img.shields.io/badge/Repositório%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -249,21 +284,78 @@ Protótipo focado em perspectiva, movimentação e experimentação visual/gamep
 
 ---
 
-# 🛠️ Tecnologias
+# 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-### Desenvolvimento de Jogos
+## Game Development
 
-<img src="https://skillicons.dev/icons?i=unity,cs,git,github,gitlab,visualstudio" />
+<p>
+  <img src="https://skillicons.dev/icons?i=unity" height="60"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="60"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60"/>
+  <img src="https://skillicons.dev/icons?i=git" height="60"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" height="60"/>
+  <img src="https://skillicons.dev/icons?i=github" height="60"/>
+</p>
 
-<br><br>
+<br>
 
-### Programação & Ferramentas
+## Linguagens & Apoio Técnico
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,javascript,html,css,figma" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="55"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" height="55"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="55"/>
+  <img src="https://skillicons.dev/icons?i=html" height="55"/>
+  <img src="https://skillicons.dev/icons?i=css" height="55"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="55"/>
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/Gameplay%20Programming-5865F2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Game%20Systems-2EA44F?style=for-the-badge">
+<img src="https://img.shields.io/badge/Unity%20Tools-58A6FF?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/Save%20Systems-F97316?style=for-the-badge">
+<img src="https://img.shields.io/badge/Scene%20Management-8B5CF6?style=for-the-badge">
+<img src="https://img.shields.io/badge/Point%20and%20Click-0EA5E9?style=for-the-badge">
 
 </div>
+
+---
+
+# 🧩 Foco Técnico
+
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
+
+## 🎮 Gameplay
+
+Sistemas de interação, movimentação, puzzles, inventário e sensação de jogo.
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+## 🧱 Arquitetura
+
+Organização modular, componentes reutilizáveis, persistência e estrutura de cenas.
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+## 🛠️ Ferramentas
+
+Ferramentas para Unity, fluxos de produção, debug visual e sistemas editáveis.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -271,29 +363,61 @@ Protótipo focado em perspectiva, movimentação e experimentação visual/gamep
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikoliveira091&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=erikoliveira091&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikoliveira091&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikoliveira091&layout=compact&langs_count=8&theme=tokyonight"/>
 
 <br><br>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=erikoliveira091&theme=tokyonight"/>
+<img height="170em" src="https://streak-stats.demolab.com/?user=erikoliveira091&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🌐 Plataformas
+# 🌐 Versionamento & Plataformas
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+
+## 🦊 GitLab
+
+<img src="https://skillicons.dev/icons?i=gitlab" height="75"/>
+
+<br><br>
+
+Principal ambiente de **desenvolvimento ativo**, versionamento e organização dos meus projetos em Unity.
+
+<br><br>
+
 <a href="https://gitlab.com/erikoliveira091">
-<img src="https://img.shields.io/badge/GitLab-Projetos%20Principais-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Acessar%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </a>
 
+</td>
+
+<td align="center" width="50%" valign="top">
+
+## 🐙 GitHub
+
+<img src="https://skillicons.dev/icons?i=github" height="75"/>
+
+<br><br>
+
+Espaço utilizado para **portfólio**, apresentação de projetos e repositórios selecionados.
+
+<br><br>
+
 <a href="https://github.com/erikoliveira091">
-<img src="https://img.shields.io/badge/GitHub-Portfólio%20e%20Projetos-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Acessar%20GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -306,15 +430,16 @@ Protótipo focado em perspectiva, movimentação e experimentação visual/gamep
 ```txt
 Gameplay Programming
 Game Systems
-Narrative Systems
-Arquitetura para Jogos
-Ferramentas para Unity
-Point-and-Click Design
-Persistência de Mundo
-Scene Streaming
-Gameplay Frameworks
-Game Feel & Interaction
-UI/UX para Jogos
+Unity Development
+C# for Games
 Game Architecture
-Interactive Narrative
-Atmospheric Design
+Unity Tools
+Point-and-Click Systems
+Inventory Systems
+Save/Load Systems
+Scene Management
+Narrative Systems
+Interaction Systems
+Puzzle Structures
+World Persistence
+Game Feel
