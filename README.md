@@ -145,8 +145,8 @@ Projeto principal atual focado em investigação, exploração, escolhas narrati
 
 <br>
 
-<a href="LINK_AQUI">
-<img src="https://img.shields.io/badge/Repositório-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://gitlab.com/erikoliveira091/summers-last-dawn">
+<img src="https://img.shields.io/badge/Repositório%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </a>
 
 </td>
@@ -159,7 +159,7 @@ Projeto principal atual focado em investigação, exploração, escolhas narrati
 
 <br><br>
 
-**Survival Horror Demake**
+**Demake no estilo Atari 2600**
 
 Projeto desenvolvido para o trabalho final da disciplina de matemática aplicada a multimidia, com a proposta de ser um demake no estilo do Atari 2600 de um jogo moderno, no caso Dead by Daylight.
 
@@ -196,7 +196,7 @@ Projeto desenvolvido para o trabalho final da disciplina de matemática aplicada
 
 ## 🌑 Abyss of Roots
 
-<img src="https://placehold.co/500x260/0d1117/8B5CF6?text=Abyss+of+Roots" />
+<img src="./abyss_of_roots.jpeg?text=Abyss+of+Roots" />
 
 <br><br>
 
