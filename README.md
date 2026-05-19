@@ -251,17 +251,21 @@ Projeto desenvolvido em poucos dias para a **Global Game Jam**, explorando o tem
 
 ## 🎥 Projeto 2.5D
 
-<img src="./2.5D.png?text=Projeto+2.5D" />
+<img src="./2.5d.jpeg" />
 
 <br><br>
 
-**Estudo Técnico / Gameplay Prototype**
+**Gameplay Prototype • Dungeon Crawler Experimental**
 
-Protótipo focado em perspectiva, movimentação, câmera e experimentação visual em Unity.
+Projeto experimental inspirado em jogos como **The Binding of Isaac**, focado em dungeons procedurais, gameplay top-down e mistura entre personagens/sprites 2D com cenários 3D.
 
 <br><br>
 
-`Unity` `C#` `Prototype`
+> O projeto foi descontinuado, mas serviu como uma importante etapa de aprendizado em sistemas de renderização híbrida, procedural generation e organização visual para jogos 2.5D.
+
+<br>
+
+`Unity` `C#` `Procedural Generation` `2.5D`
 
 <br>
 
@@ -270,20 +274,26 @@ Protótipo focado em perspectiva, movimentação, câmera e experimentação vis
 
 <br>
 
-- Perspectiva 2.5D  
-- Movimentação  
-- Experimentação de câmera  
-- Sistemas visuais  
-- Organização de cena  
-- Gameplay experimental  
+- Geração procedural de salas  
+- Estrutura para dungeon crawler  
+- Integração entre arte 2D e cenário 3D  
+- Estudos de order layer e sorting  
+- Experimentação com rigs e animação  
+- Estruturação de gameplay top-down  
+- Sistemas experimentais de câmera e perspectiva  
+- Organização modular para gameplay  
 
 </details>
 
 <br>
 
+<div align="center">
+
 <a href="https://gitlab.com/erikoliveira091/2.5d">
 <img src="https://img.shields.io/badge/Repositório%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </a>
+
+</div>
 
 </td>
 </tr>
