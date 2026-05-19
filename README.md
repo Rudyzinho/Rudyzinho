@@ -155,7 +155,7 @@ Projeto principal atual focado em investigação, exploração, escolhas narrati
 
 ## 🩸 Dead by Demake
 
-<img src="https://placehold.co/500x260/0d1117/FC6D26?text=Dead+by+Demake" />
+<img src="./dead_by_demake.png?text=Dead+by+Demake" />
 
 <br><br>
 
