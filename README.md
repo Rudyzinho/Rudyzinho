@@ -251,7 +251,7 @@ Projeto desenvolvido em poucos dias para a **Global Game Jam**, explorando o tem
 
 ## 🎥 Projeto 2.5D
 
-<img src="https://placehold.co/500x260/0d1117/2EA44F?text=Projeto+2.5D" />
+<img src="./2.5D.png?text=Projeto+2.5D" />
 
 <br><br>
 
