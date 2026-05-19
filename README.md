@@ -251,23 +251,21 @@ Projeto desenvolvido em poucos dias para a **Global Game Jam**, explorando o tem
 
 ## 🎥 Projeto 2.5D
 
-<img src="./2.5D.png" />
+<img src="./2.5d.png" />
 
 <br><br>
 
 **Gameplay Prototype • Dungeon Crawler Experimental**
 
-Projeto experimental inicialmente inspirado na câmera e ambientação de jogos como **Diablo**, misturando visão isométrica/top-down com personagens e artes 2D em cenários 3D.
-
-O projeto evoluiu posteriormente para experimentações mais próximas de dungeon crawlers no estilo **The Binding of Isaac**, incluindo ideias de progressão e geração procedural.
+Projeto experimental criado como uma tentativa de desenvolver um jogo com **visual inspirado em DOOM** e **gameplay inspirado em The Binding of Isaac**, combinando combate, exploração, dungeons procedurais e uma mistura entre artes/personagens 2D com cenários 3D.
 
 <br><br>
 
-> Embora tenha sido descontinuado, o projeto serviu como uma importante etapa de aprendizado em renderização híbrida, organização visual, procedural generation e sistemas para jogos 2.5D.
+> Embora tenha sido descontinuado, o projeto serviu como uma importante etapa de aprendizado em renderização híbrida, order layer, criação procedural, rig e organização visual para jogos 2.5D.
 
 <br>
 
-`Unity` `C#` `Procedural Generation` `2.5D`
+`Unity` `C#` `Procedural Generation` `2.5D` `Dungeon Crawler`
 
 <br>
 
@@ -278,12 +276,13 @@ O projeto evoluiu posteriormente para experimentações mais próximas de dungeo
 
 - Geração procedural de salas  
 - Estrutura para dungeon crawler  
+- Gameplay inspirado em The Binding of Isaac  
+- Visual inspirado em DOOM  
 - Integração entre arte 2D e cenário 3D  
 - Estudos de order layer e sorting  
-- Experimentação com rigs e animação  
-- Sistemas de câmera inspirados em Diablo  
-- Gameplay top-down/isométrico  
-- Estruturação modular de gameplay  
+- Experimentação com rig e animação  
+- Combate, exploração e progressão  
+- Organização modular de gameplay  
 - Experimentações visuais em 2.5D  
 
 </details>
