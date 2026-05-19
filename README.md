@@ -257,11 +257,13 @@ Projeto desenvolvido em poucos dias para a **Global Game Jam**, explorando o tem
 
 **Gameplay Prototype • Dungeon Crawler Experimental**
 
-Projeto experimental inspirado em jogos como **The Binding of Isaac**, focado em dungeons procedurais, gameplay top-down e mistura entre personagens/sprites 2D com cenários 3D.
+Projeto experimental inicialmente inspirado na câmera e ambientação de jogos como **Diablo**, misturando visão isométrica/top-down com personagens e artes 2D em cenários 3D.
+
+O projeto evoluiu posteriormente para experimentações mais próximas de dungeon crawlers no estilo **The Binding of Isaac**, incluindo ideias de progressão e geração procedural.
 
 <br><br>
 
-> O projeto foi descontinuado, mas serviu como uma importante etapa de aprendizado em sistemas de renderização híbrida, procedural generation e organização visual para jogos 2.5D.
+> Embora tenha sido descontinuado, o projeto serviu como uma importante etapa de aprendizado em renderização híbrida, organização visual, procedural generation e sistemas para jogos 2.5D.
 
 <br>
 
@@ -279,9 +281,10 @@ Projeto experimental inspirado em jogos como **The Binding of Isaac**, focado em
 - Integração entre arte 2D e cenário 3D  
 - Estudos de order layer e sorting  
 - Experimentação com rigs e animação  
-- Estruturação de gameplay top-down  
-- Sistemas experimentais de câmera e perspectiva  
-- Organização modular para gameplay  
+- Sistemas de câmera inspirados em Diablo  
+- Gameplay top-down/isométrico  
+- Estruturação modular de gameplay  
+- Experimentações visuais em 2.5D  
 
 </details>
 
