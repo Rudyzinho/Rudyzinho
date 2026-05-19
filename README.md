@@ -233,9 +233,17 @@ Projeto desenvolvido em poucos dias para a **Global Game Jam**, explorando o tem
 
 <br>
 
+<div align="center">
+
 <a href="https://gitlab.com/erikoliveira091/abyss-of-roots">
 <img src="https://img.shields.io/badge/Repositório%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </a>
+
+<a href="https://rudyzinho.itch.io/abyss-of-roots">
+<img src="https://img.shields.io/badge/Download%20no%20itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 
