@@ -196,17 +196,22 @@ Projeto desenvolvido para o trabalho final da disciplina de matemática aplicada
 
 ## 🌑 Abyss of Roots
 
-<img src="./abyss_of_roots.jpeg?text=Abyss+of+Roots" />
+<img src="./abyss_of_roots.jpeg" />
 
 <br><br>
 
-**Experimento Narrativo / Atmosférico**
+**Global Game Jam • Tema: Roots**
 
-Projeto experimental com foco em exploração, ambientação e estrutura narrativa interativa.
+Projeto desenvolvido em poucos dias para a **Global Game Jam**, explorando o tema **“raízes”** através de uma experiência focada em mistério, exploração e ambientação atmosférica.
 
 <br><br>
 
-`Unity` `C#` `Atmospheric Design`
+> Um misterioso aglomerado de árvores gigantes foi descoberto no meio do oceano profundo.  
+> Um pesquisador embarca em uma jornada em busca de respostas nas profundezas de suas raízes.
+
+<br>
+
+`Unity` `C#` `Game Jam` `Atmospheric Design`
 
 <br>
 
@@ -215,12 +220,14 @@ Projeto experimental com foco em exploração, ambientação e estrutura narrati
 
 <br>
 
-- Exploração  
-- Estrutura narrativa  
+- Exploração atmosférica  
+- Narrativa implícita  
+- Ambientação misteriosa  
+- Estrutura narrativa experimental  
 - Sistemas de interação  
+- Desenvolvimento rápido para Game Jam  
 - Organização modular  
-- Atmosfera visual  
-- Experimentos com gameplay narrativo  
+- Construção visual focada no tema “raízes”  
 
 </details>
 
